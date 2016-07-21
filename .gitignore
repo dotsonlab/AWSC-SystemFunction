@@ -1,0 +1,4 @@
+# Ignore OSX temporary files
+
+.DS_Store≈y
+
