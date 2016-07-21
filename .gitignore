@@ -1,4 +1,9 @@
 # Ignore OSX temporary files
 
-.DS_Store≈y
+.DS_Store
+
+
+# Ignore compiled python
+
+.pyc
 
